@@ -1,0 +1,11 @@
+.footer-bg{
+  background-color:#112842 !important;
+  text-align: left !important;
+}
+.footer-link{
+  color: #e9eef0 !important;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #FEE495 !important;
+}

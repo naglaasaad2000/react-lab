@@ -1,0 +1,38 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.margin{
+  margin-top: 90px;
+}
+.nav-color{
+  background-color:#112842;
+}
+.link-color{
+  color: #e9eef0 !important;
+}
+.text-link{
+  color: #FEE495 !important;
+}
+.img-card-sample{
+  height: 200px;
+  width: 354px;
+}
